@@ -1,4 +1,4 @@
-# 🥐 Bake House – Full-Scale Bakery E-Commerce Frontend
+# 🥐 Bake House – Full-Style Frontend E-Commerce Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Build: Passing](https://img.shields.io/badge/Build-Passing-brightgreen)
