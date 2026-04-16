@@ -51,7 +51,7 @@ A full-width cart experience followed by a professional payment interface suppor
 
 | Feature | Description |
 | :--- | :--- |
-| **Hero Section** | Animated sliders and promotional banners. |
+| **Home Section** | Animated sliders and promotional banners. |
 | **Search** | Ability to browse by category (Cakes, Cookies, Sweets). |
 | **Interactive Cart** | Real-time visual updates for item counts and totals. |
 | **Form Validation** | Secure frontend validation for Login, Sign Up, and Payment details. |
@@ -62,8 +62,12 @@ A full-width cart experience followed by a professional payment interface suppor
 ## 📂 Project Architecture
 ```text
 Bake-House/
-├images/         # Optimized product & UI asset   
-
+├──images/
+│  ├── Home.png
+│  ├── Products.png
+│  ├── Login.png
+│  ├── Checkout.png   
+    
 ├──Frontend pages/
 │   ├── about.html      # Brand story
 │   ├── products.html   # Full catalog
@@ -71,3 +75,4 @@ Bake-House/
 │   ├── cart.html       # Item management
 │   └── payment.html    # Checkout flow
 └──   index.html          # Gateway to the application
+
